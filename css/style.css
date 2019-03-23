@@ -29,6 +29,21 @@ body {
   border-color: #F78D92; 
 }
 
+.group-container {
+  width: 100%;
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.button-group {
+  text-align: center;
+  margin: 15px 0px 0px 0px;
+}
+
+.blank-space {
+  padding-right: 25px;
+}
+
 footer {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
